@@ -1,0 +1,27 @@
+## map to the numbers and back
+
+...
+function reversed_string(string_arg)
+  returner <-- ""
+  
+  associate each letter in the string with a number, sequentially
+  
+  reverse the order of the numbers
+  
+  map back to numbers domain
+  
+  return returner
+ END function
+ ...
+ 
+ 
+ ___
+ 
+ ### strategy explanation
+ 
+ we want to re-order the letters in our string, numbers are inherantly ordered.
+ So we will take advantage of that by associating our letters with numbers, ordering the numbers, 
+ and mapping back to the letter world. 
+ In reversing our numbers , we are reversing our string. 
+ 
+ ### Strategy comparison
