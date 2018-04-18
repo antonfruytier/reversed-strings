@@ -1,9 +1,18 @@
+/*
+* All numbers
+* single letter
+* Suuuuper long
+* even
+* odd
+*/
+
+
+
+
 tests({
 
-  // Fill this in with your test cases
-
   '': function() {
-    eq("", your_solution(""));
+    eq("rabbit", your_solution("tibbar"));
   }
 
 });
